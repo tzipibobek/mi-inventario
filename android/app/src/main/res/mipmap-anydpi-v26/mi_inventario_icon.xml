@@ -1,0 +1,4 @@
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/mi_inventario_icon_background" />
+    <foreground android:drawable="@drawable/mi_inventario_foreground" />
+</adaptive-icon>

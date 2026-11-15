@@ -1,0 +1,11 @@
+<resources>
+    <color name="mi_inventario_icon_background">#FFF9F5</color>
+    <color name="mi_inventario_launch_background">#FFF9F5</color>
+    <bool name="mi_inventario_light_system_bars">true</bool>
+    <style name="MiInventarioLaunchTheme" parent="LaunchTheme">
+        <item name="android:windowBackground">@drawable/mi_inventario_launch_background</item>
+        <item name="android:statusBarColor">@color/mi_inventario_launch_background</item>
+        <item name="android:navigationBarColor">@color/mi_inventario_launch_background</item>
+        <item name="android:windowLightStatusBar">@bool/mi_inventario_light_system_bars</item>
+    </style>
+</resources>

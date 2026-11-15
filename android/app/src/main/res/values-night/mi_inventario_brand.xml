@@ -1,0 +1,4 @@
+<resources>
+    <color name="mi_inventario_launch_background">#191C1D</color>
+    <bool name="mi_inventario_light_system_bars">false</bool>
+</resources>
